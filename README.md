@@ -12,7 +12,7 @@ Daynix is a SW development company that works on a variety of projects mainly re
 * [hck-ci](http://github.com/hck-ci)
 * [USBDK](https://github.com/daynix/usbdk)
 
-* Also checkout [Daynix](https://github.com/daynix/) repositories.
+* Also check out [Daynix](https://github.com/daynix/) repositories.
 
 #### 💬 Ask me about
 
