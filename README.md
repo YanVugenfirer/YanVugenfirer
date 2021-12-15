@@ -28,7 +28,7 @@ Daynix is a SW development company that works on a variety of projects mainly re
 
 #### 🌱 I’m currently learning
 
-* RISC-C
+* RISC-V
 * Rust
 * DAPPS and smart contracts
 
