@@ -11,6 +11,7 @@ Daynix is a SW development company that works on a variety of projects mainly re
 * [virtio-win](http://github.com/virtio-win/kvm-guest-drivers-windows/)
 * [hck-ci](http://github.com/hck-ci)
 * [USBDK](https://github.com/daynix/usbdk)
+* [Rebuild](https://github.com/rbld/rebuild/wiki)
 
 * Also check out [Daynix](https://github.com/daynix/) repositories.
 
@@ -20,6 +21,7 @@ Daynix is a SW development company that works on a variety of projects mainly re
 * Windows drivers and drivers certification
 * Linux kernel
 * AI accelerators
+* eBPF
 * Open Source (contributions, managing the projects, licenses)
 * Bootstrapping SW development company and company DNA
 * Kendo and Iaido
@@ -29,6 +31,12 @@ Daynix is a SW development company that works on a variety of projects mainly re
 * RISC-C
 * Rust
 * DAPPS and smart contracts
+
+#### Check out my KVM Forum and Open Source summit sessions
+
+* [Receive Side Scaling (RSS) with eBPF in QEMU and virtio-net](https://www.youtube.com/watch?v=GP6kSs6vCH8)
+* [Implementing SR-IOV Failover for Windows Guests During Migration](https://www.youtube.com/watch?v=X4tBkFvqB8s)
+* [Rebuild introduction - How Linux Containers can Help to Manage Development Environments for IoT and Embedded Systems](https://www.youtube.com/watch?v=F61MM_uuI5A)
 
 #### 🤔 I’m looking for help with
 
