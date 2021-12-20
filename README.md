@@ -8,7 +8,7 @@ Daynix is a SW development company that works on a variety of projects mainly re
 
 #### 🔭 I’m currently working on
 
-* [virtio-win](http://github.com/virtio-win/kvm-guest-drivers-windows/)
+* [virtio-win](http://github.com/virtio-win/kvm-guest-drivers-windows/) (follow the link to the official repostory)
 * [hck-ci](http://github.com/hck-ci)
 * [USBDK](https://github.com/daynix/usbdk)
 * [Rebuild](https://github.com/rbld/rebuild/wiki)
@@ -18,6 +18,7 @@ Daynix is a SW development company that works on a variety of projects mainly re
 #### 💬 Ask me about
 
 * QEMU\KVM development
+* virtio and virtio-win
 * Windows drivers and drivers certification
 * Linux kernel
 * AI accelerators
