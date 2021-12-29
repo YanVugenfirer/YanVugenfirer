@@ -50,4 +50,4 @@ Daynix is a SW development company that works on a variety of projects mainly re
 
 
 #### ⚡ Fun fact:
-* I am holding forth dan in Iaido and third dan in Kendo.
+* I am holding fourth dan in Iaido and third dan in Kendo.
