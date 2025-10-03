@@ -39,9 +39,6 @@ Daynix is a SW development company that works on a variety of projects mainly re
 * [Implementing SR-IOV Failover for Windows Guests During Migration](https://www.youtube.com/watch?v=X4tBkFvqB8s)
 * [Rebuild introduction - How Linux Containers can Help to Manage Development Environments for IoT and Embedded Systems](https://www.youtube.com/watch?v=F61MM_uuI5A)
 
-#### 🤔 I’m looking for help with
-
-* Working on QEMU\KVM and other interesting virtualization projects. If you are looking for a job, please ping me at jobs@daynix.com
 
 #### 📫 How to reach me:
 
@@ -50,4 +47,4 @@ Daynix is a SW development company that works on a variety of projects mainly re
 
 
 #### ⚡ Fun fact:
-* I am holding fourth dan in Iaido and third dan in Kendo.
+* I am holding fifth dan in Iaido and third dan in Kendo.
