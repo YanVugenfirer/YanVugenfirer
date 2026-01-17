@@ -2,9 +2,7 @@
 
 My name is Yan Vugenfirer.
 
-I am SW engineer and CEO of [Daynix](https://github.com/daynix/).
-
-Daynix is a SW development company that works on a variety of projects mainly related to virtualization, kernel, and AI accelerators.
+I am SW engineer and Senior Principal SW engineer at Red Hat (ex-CEO of [Daynix](https://github.com/daynix/)).
 
 #### 🔭 I’m currently working on
 
